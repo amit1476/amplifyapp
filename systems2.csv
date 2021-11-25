@@ -1,0 +1,414 @@
+App_Id,App_Name,Is_file
+39,3PL Data Handler,0
+40,7th Online,0
+41,7th Online Asia,0
+42,Acquia (AgilOne),0
+43,ACS,0
+44,ACS Asia,0
+45,Act,0
+46,AD - MIM - Azure AD,0
+47,Addressy,0
+48,Adobe Analytics,0
+49,Adobe Creative Cloud,0
+50,Adobe Scene 7,0
+51,Adobe Target,0
+52,Adyen (Korea Ecom),0
+53,Agilence,0
+54,Airwatch,0
+55,AIX 7.2,0
+56,Akamai GLB Service,0
+57,Aldon,0
+58,AlgoSec,0
+59,Amazon Web Services,0
+60,Ansible,0
+61,Ariba CIG,0
+62,Asia POS Register - HP RP9,0
+63,ASN System,0
+64,Associate Discount ,0
+65,Assortment Advice,0
+66,AudioEye,0
+67,Auditboard,0
+68,Avery Nice Label,0
+69,Avery PC Mate,0
+70,Azure EDP,0
+71,Azure AD Password Reset,0
+72,Azure Application Proxy,0
+73,Azure DevOps,0
+74,Baozun (CK CN),0
+75,Baozun (TH CN),0
+76,Beyond Trust,0
+77,BizTalk,0
+78,Blue Coat,0
+79,BlueCore,0
+80,Brickstream (Franchisee),0
+81,Brightcove,0
+82,Bronto,0
+83,Browzwear,0
+84,Burgeon,0
+85,Burgeon (TH CN),0
+86,Business Travel Approval,0
+87,Bynder,0
+88,CA Release Automation,0
+89,Camel,0
+90,CAMS,0
+91,CAMS Lite,0
+92,Cat DV,0
+93,Catalyst 3850,0
+94,CCE (CK CN),0
+95,Central Receiving Application,0
+96,Centric (NA),0
+97,Ceridian Insync,0
+98,Chargebacks,0
+99,CheckPoint,0
+100,Chrome - Mac,0
+101,Chrome - PC,0
+102,Cisco AnyConnect,0
+103,Cisco Call Manager,0
+104,Cisco CMS / VMS,0
+105,Cisco IronPort,0
+106,Cisco ISE,0
+107,Cisco Jabber - Mac,0
+108,Cisco Jabber - Mobile,0
+109,Cisco Jabber - PC,0
+110,Cisco Meraki,0
+111,Cisco Nexus,0
+112,Cisco Nexus Dashboard Fabric Controller,0
+113,Cisco Umbrella,0
+114,Cisco Unity,0
+115,Citrix NetScalar & Azure MFA,0
+116,Citrix Virtual Apps and Desktop 1912 LTSR,0
+117,Citrix XenApp 6.5,0
+118,Coalfire,0
+119,Commvault,0
+120,Comrads(DAMEU),0
+121,Concrete,0
+122,Concur,0
+123,Concur Reporting,0
+124,Coremedia,0
+125,CoStar,0
+126,CR360,0
+127,Creative Drive,0
+128,CTFreightRater,0
+129,CyberInt,0
+130,Cybersource,0
+131,Cybersource (HK+ Ecom),0
+132,Datamart,0
+133,Deadline,0
+134,Decibel,0
+135,Demand Solutions,0
+136,Destination,0
+137,Diligent Board Portal,0
+138,Dobby Pro,0
+139,DocuSign,0
+140,DTS,0
+141,Ebizway,0
+142,ECW,0
+143,Edgemagic,0
+144,Entefy,0
+145,EQHR,0
+146,eShopWorld,0
+147,Essbase,0
+148,ETOCRM (TN CN),0
+149,evalue,0
+150,Evoku,0
+151,Exchange,0
+152,EXLOG,0
+153,Extensis UTS Client,0
+154,Extensis UTS Server,0
+155,F5,0
+156,Fastly,0
+157,FedEx,0
+158,FedExServer,0
+159,FIMS,0
+160,FirePower,0
+161,Fit Analytics,0
+162,Flooid VISION Commerce Suite,0
+163,Foglight,0
+164,ForeScout,0
+165,Forter,0
+166,Gateway for SAP,0
+167,GCC,0
+168,GCP,0
+169,Giken Trastem (TH JP),0
+170,Global Data Warehouse (GDW),0
+171,Global Payments (HKMO),0
+172,GlobalScape,0
+173,GMO (Japan Ecom),0
+174,Google Ads (DoubleClick),0
+175,Google Analytics,0
+176,Group Policy,0
+177,GTNexus,0
+178,HFM,0
+179,HR & Payroll Data from Acquisitions,0
+180,Hitachi Password Manager,0
+181,HK Test,0
+182,Host Data Handler,0
+183,HTS,0
+184,IBM I 7.3,0
+185,IBM Sterling B2Bi,0
+186,IE11,0
+187,iHRPLUS,0
+188,ImageMart,0
+189,Implementer,0
+190,InfoBlox,0
+191,Informatica BDM ,0
+192,Informatica PIM,0
+193,Informatica PowerCenter,0
+194,iOS,0
+195,iOS Native Client,0
+196,IP v4.0,0
+197,IPDW,0
+198,ISIS,0
+199,ITCM,0
+200,JAMF Casper Suite,0
+201,JDA AL,0
+202,JDA AP,0
+203,JDA EP,0
+204,JDA SCPO,0
+205,JDA SSI,0
+206,JMS (Japan),0
+207,Juniper,0
+208,Juniper &  Azure MFA,0
+209,Kaledo,0
+210,KICC(Korea),0
+211,Klarna,0
+212,KnowBe4,0
+213,Kronos Budget,0
+214,Kronos Legacy 6.3,0
+215,Kronos Workforce Central,0
+216,Kyriba,0
+217,LASERFICHE,0
+218,Lawson,0
+219,Licensing App,0
+220,Lighthouse,0
+221,LinxPortal,0
+222,LiveRamp,0
+223,MAC OS,0
+224,Manhattan Active Omni,0
+225,Manhattan DOM,0
+226,Manual/VMI (Neckwear),0
+227,MapR (Hadoop Ecosystem),0
+228,Marketo (TH JP),0
+229,McAfee ENS - Mac,0
+230,McAfee ENS - PC,0
+231,Meraki,0
+232,Meraki - Catalyst 9300,0
+233,Merlin,0
+234,Microsoft Azure,0
+235,Microsoft Azure AD B2B,0
+236,Microsoft Configuration Manager,0
+237,Microsoft Edge - Mac,0
+238,Microsoft Edge - PC,0
+239,Microsoft End Point Manager,0
+240,Microsoft Office - Mac,0
+241,Microsoft Office - PC,0
+242,Microsoft SQL Server 2012,0
+243,Microsoft SQL Server 2019,0
+244,Microsoft Teams - Mac,0
+245,Microsoft Teams - PC,0
+246,Microsoft TFS,0
+247,Miroku,0
+248,MM,0
+249,Monimedia,0
+250,MuleSoft Anypoint MQ,0
+251,MuleSoft AnyPoint Platform,0
+252,Narvar,0
+253,NCR,0
+254,NCR (TH JP),0
+255,NCR CoCoMo(TH JP),0
+256,NetApp,0
+257,NetMRI,0
+258,Netscalar,0
+259,NetX 8.11 (backend)/Portal 1.6,0
+260,New Tech,0
+261,Nlyte,0
+262,NorthStar,0
+263,Nutanix,0
+264,Nuxeo,0
+265,Ogilvy (CK HK),0
+266,Ogilvy (CK ROA),0
+267,OnBase,0
+268,OneDrive - Mac,0
+269,OneDrive - PC,0
+270,Opentext,0
+271,Operational Data Store (ODS),0
+272,Optimizely,0
+273,Optitex,0
+274,Oracle 12cR2,0
+275,Oracle ORCE,0
+276,Oracle Xstore,0
+277,Outlook - Mac,0
+278,Outlook - PC,0
+279,PAMS,0
+280,Password Manager  Pro,0
+281,Paypal,0
+282,PC Miler,0
+283,PerimeterX,0
+284,Phenom,0
+285,Pointcarre,0
+286,Poppulo,0
+287,PowerReviews,0
+288,PPV,0
+289,Prevoty,0
+290,Price Lookup Application,0
+291,Process Unity,0
+292,Project Server,0
+293,Pure Storage,0
+294,Purolator E-Ship Server,0
+295,PVCS,0
+296,PVH Call Center Tool (Websphere),0
+297,PVH Thread (Unily),0
+298,QuickPoll,0
+299,Random,0
+300,Rapid Data Mart (RDM),0
+301,Rapid7,0
+302,Rapid7 - Insight AppSec,0
+303,Rapid7 - Insight VM,0
+304,Redhat 7,0
+305,Redhat 8,0
+306,Reflektion,0
+307,Retail Flash Reporting (Jwalk),0
+308,RetailNext,0
+309,Ring Central,0
+310,Robot Console,0
+311,Robot Save,0
+312,Robot Scheduler,0
+313,Royal 4,0
+314,RSLinx,0
+315,RSLogix,0
+316,Rtoaster,0
+317,Safari - iOS,0
+318,Safari - Mac,0
+319,Sage Fixed Assets- Premier Depreciation ,0
+320,Sales Budget (Ship Spread),0
+321,Salesforce DMP,0
+322,Salesforce Marketing Cloud,0
+323,Salesforce Service Cloud,0
+324,SAP - GRC,0
+325,SAP - SLT,0
+326,SAP - SSO,0
+327,SAP Analytics Cloud (SAC),0
+328,SAP Business Objects Suite,0
+329,SAP BW/4 Hana,0
+330,SAP CAR,0
+331,SAP EnableNow,0
+332,SAP PI/ PO,0
+333,SAP S/4 Central Finance  ,0
+334,SAP S/4 Fashion,0
+335,SAP S/4 HANA Finance,0
+336,SAP Solution Manager,0
+337,SCSK (TH JP),0
+338,Service Now,0
+339,SharePoint 2013,0
+340,SharePoint Online,0
+341,Shop N Shop POS Register,0
+342,ShopperTrak,0
+343,ShopRunner,0
+344,SingPost,0
+345,SiteCore,0
+346,SkyHigh,0
+347,Skyview,0
+348,SnagIT,0
+349,Socia,0
+350,Social Chorus (PVH Insider),0
+351,SOCIi (formerly Brandify),0
+352,SolarWinds,0
+353,Sourcing DataMart (DMS),0
+354,Special Order Store Fulfillment Application,0
+355,Special Orders,0
+356,Splash Access,0
+357,Splunk,0
+358,Sprinklr,0
+359,SteeleCentral,0
+360,Stibo STEP,0
+361,Store Design Application,0
+362,Store Loyalty Database,0
+363,Store Replenishment Application,0
+364,Store Traffic Reporting Application,0
+365,STORELIFE,0
+366,Supplier EDI,0
+367,Suse 12 SAP,0
+368,Suse 15 SAP,0
+369,SWIFT Alliance Lite2,0
+370,SWIFT Auto Client,0
+371,Systems Center Operations Manager,0
+372,Tableau,0
+373,Tacacs,0
+374,Tealium,0
+375,Tech Trans (Franchisees),0
+376,Tech Trans (O&O Consignment),0
+377,Terraform,0
+378,TH: JaggedPeak,0
+379,TH: ShopperTrak,0
+380,Thomson Reuters OneSource,0
+381,Thomson Reuters OneSource (On-Prem),0
+382,ThreatGrid,0
+383,ThreatQueue,0
+384,Tillerman,0
+385,TIMESOFT,0
+386,Tivoli Monitor,0
+387,Tivoli Workload Scheduler,0
+388,Tivoli Enterprise Scheduler,0
+389,TopDesk,0
+390,Toshiba Digital Signage,0
+391,Total Rewards,0
+392,Traffic Worksheet,0
+393,1VUE,0
+394,TrustedLink,0
+395,TurnTo,0
+396,UMT360,0
+397,ValueLink,0
+398,Varonis,0
+399,Verifone Point Enterprise,0
+400,Vimeo,0
+401,VIP,0
+402,Visualize,0
+403,Visulon Revue,0
+404,Visulon Visual Assortment Planner,0
+405,VMS,0
+406,VMWare ESXi v7.0,0
+407,VMWare WorkSpace One (AirWatch),0
+408,VNC,0
+409,V-Ray,0
+410,Waitwhile,0
+411,WDS Data Capture,0
+412,WDS Data Reporting,0
+413,WebEx - Mac,0
+414,WebEx - Mobile,0
+415,WebEx - PC,0
+416,Websphere,0
+417,Windows 10,0
+418,Windows 10 IOT Image,0
+419,Windows 2008,0
+420,Windows 2012,0
+421,Windows 2016,0
+422,Windows 2019,0
+423,Windows Storage Server,0
+424,WM2010,0
+425,Wmi 2016,0
+426,Wordpress VIP,0
+427,Workday HCM,0
+428,Workday Learning,0
+429,Workhuman,0
+430,Wrike,0
+431,XCOM,0
+432,XPC,0
+433,Your Cause,0
+434,YouTube,0
+435,Centric (EU),0
+436,FMS,0
+437,EU PIM,0
+438,Third-Party Non-Source Vendor,1
+439,HTS Enrichment,1
+440,EU Overrides,1
+441,Commercialization Sheet,1
+442,Orphan Attribute Enrichment,1
+443,Key Planning Attribute Enrichment,1
+444,Costing Spreadsheet (DTS),1
+445,MDM Size Library,1
+446,IP (Asia),0
+447,IPDW (Asia),0
+448,SKU Plan,1
+449,Line Matrix,1
+450,Smartsheet,1
+451,Unknown,0
