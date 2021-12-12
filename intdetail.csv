@@ -1,0 +1,99 @@
+Source_System,Target_System,Interface_Name,Lineage_Status,Technical_Filename,File_Type,Frequency
+96,360,Centric NA Design Style Publish to MDM,Go-Forward,Style.JSON,JSON,Near Real-Time
+96,360,Centric NA Color Spec Publish to MDM,Go-Forward,ColorSpec.JSON,JSON,Near Real-Time
+96,360,Centric NA Colorway Publish to MDM,Go-Forward,Colorway.JSON,JSON,Near Real-Time
+96,360,Centric NA Supplier Publish to MDM,Go-Forward,Supplier.JSON,JSON,Near Real-Time
+96,360,Centric NA Raw Material Publish to MDM,Go-Forward,Material.JSON,JSON,Near Real-Time
+140,360,140 TH Costing / NRF Data to MDM,Interim,,EXCEL,Ad-Hoc
+334,201,Commercialized Style and Pricing Feed from SAP S/4 to JDA AL,Go-Forward,,,
+334,201,Commercialized Style Hierarchy Feed from SAP S/4 to JDA AL,Go-Forward,,,
+334,201,Commercialized Style (Prepacks) Feed from SAP to JDA AL,Go-Forward,,,
+334,201,Site Master Data from SAP S/4 to JDA AL,Go-Forward,,,
+334,201,DC Inventory Data from SAP S/4 to JDA AL,Go-Forward,,,
+360,201,MDM Commercialized Publish to JDA AL,Go-Forward,,JSON,Near Real-Time
+334,203,Commercialized Style and Pricing Feed from SAP S/4 to JDA EP,Go-Forward,,,
+334,203,Commercialized Style Hierarchy Feed from SAP S/4 to JDA EP,Go-Forward,,,
+334,203,Commercialized Style (Prepacks) Feed from SAP to JDA EP,Go-Forward,,,
+334,203,Site Master Data from SAP S/4 to JDA EP,Go-Forward,,,
+334,203,On Order Quantity Data from SAP S/4 to JDA EP,Go-Forward,,,
+360,203,MDM Commercialized Publish to JDA EP,Go-Forward,,JSON,Near Real-Time
+360,203,MDM Commercialized Publish to JDA SSI,Go-Forward,,JSON,Near Real-Time
+360,204,MDM Commercialized Publish to JDA SCPO,Go-Forward,,JSON,Near Real-Time
+334,204,Commercialized Style (Prepacks) Feed from SAP to JDA SCPO,Go-Forward,,,
+334,204,Site Master Data from SAP S/4 to JDA SCPO,Go-Forward,,,
+334,204,Vendor Data from SAP S/4 to JDA SCPO,Go-Forward,,,
+334,204,Customer Data from SAP S/4 to JDA SCPO,Go-Forward,,,
+334,204,Wholesale Price Data from SAP S/4 to JDA SCPO,Go-Forward,,,
+334,204,Sales & Inventory Data from SAP S/4 to JDA SCPO,Go-Forward,,,
+334,204,Open Sales Order Data from SAP S/4 to JDA SCPO,Go-Forward,,,
+334,204,Open Sales Order Shipment Data from SAP S/4 to JDA SCPO,Go-Forward,,,
+334,204,Sales Order Cancellation Data from SAP S/4 to JDA SCPO,Go-Forward,,,
+334,204,DC Inventory Data from SAP S/4 to JDA SCPO,Go-Forward,,,
+334,204,Transfer Lead Time Data from SAP S/4 to JDA SCPO,Go-Forward,,,
+334,204,FGPO & STO Data from SAP S/4 to JDA SCPO,Go-Forward,,,
+334,204,Commercialized Style and Pricing Feed from SAP S/4 to JDA SCPO,Go-Forward,,,
+334,205,Commercialized Style and Pricing Feed from SAP S/4 to JDA SSI,Legacy,,,
+334,205,Commercialized Style Hierarchy Feed from SAP S/4 to JDA SSI,Legacy,,,
+334,205,Site Master Data from SAP S/4 to JDA SSI,Legacy,,,
+334,177,Purchase Order Data from SAP S/4 to GT Nexus,Go-Forward,,,
+334,177,Goods Receipt Data from SAP S/4 to GT Nexus,Go-Forward,,,
+334,177,Quote Data from SAP S/4 to GT Nexus,Go-Forward,,,
+177,334,GT Nexus Quote to SAP S/4,Go-Forward,,,
+177,334,GT Nexus MIRO Invoice to SAP S/4,Go-Forward,,,
+177,334,GT Nexus PO Data to SAP S/4,Go-Forward,,,
+177,334,GT Nexus Factory ASN Data to SAP S/4,Go-Forward,,,
+177,334,GT Nexus Consolidator ASN Data to SAP S/4,Go-Forward,,,
+177,334,GT Nexus Milestones Data to SAP S/4,Go-Forward,,,
+177,334,GT Nexus Pack Plan Data to SAP S/4,Go-Forward,,,
+177,334,GT Nexus PTS Data to SAP S/4,Go-Forward,,,
+177,334,GT Nexus Ship Notice Data to SAP S/4,Go-Forward,,,
+360,183,MDM Commercialized Style 183 Extract,Interim,,EXCEL,Twice Daily
+183,360,183 Data from Compliance Team to MDM,Interim,,EXCEL,Ad-Hoc
+334,225,Site Master Data from SAP S/4 to DOM,Go-Forward,,,
+334,225,Commercialized Style and Pricing Feed from SAP S/4 to DOM,Go-Forward,,,
+334,225,Vendor Data from SAP S/4 to DOM,Go-Forward,,,
+334,225,Commercialized Style (Prepacks) Feed from SAP to DOM,Go-Forward,,,
+334,225,Purchase Order Data from SAP S/4 to DOM,Go-Forward,,,
+334,225,Shipment Confirmation Data from SAP S/4 to DOM,Go-Forward,,,
+334,225,Vendor ASN Data from SAP S/4 to DOM,Go-Forward,,,
+334,225,Work Order Data from SAP S/4 to DOM,Go-Forward,,,
+334,225,VAS Ticketing Data from SAP S/4 to DOM,Go-Forward,,,
+334,225,Wholesale Returns Data from SAP S/4 to DOM,Go-Forward,,,
+334,225,Store Returns Data from SAP S/4 to DOM,Go-Forward,,,
+334,225,Wholesale Pick Ticket Data from SAP S/4 to DOM,Go-Forward,,,
+334,225,Retail Pick Ticket Data (Sales Order) from SAP S/4 to DOM,Go-Forward,,,
+334,225,Inventory Snapshot Feed from SAP S/4 to DOM,Go-Forward,,,
+192,225,Customer Facing Product Data from PIM to DOM,Legacy,,,
+360,334,MDM Commercialized Publish to SAP S/4,Go-Forward,,JSON,Near Real-Time
+334,360,SAP S/4 Retail Hierachy Publish to MDM,Go-Forward,,JSON,Near Real-Time
+334,360,SAP S/4 Article Master Publish to MDM,Go-Forward,,JSON,Near Real-Time
+334,61,AP Feed from SAP S/4 to Ariba,Go-Forward,,,
+360,40,MDM Commercialized Publish to 7th-Online,Go-Forward,,JSON,Near Real-Time
+334,162,Commercialized Style Hierarchy Feed from SAP S/4 to Flooid,Go-Forward,,,Real-Time
+334,162,Commercialized Style and Pricing Feed from SAP S/4 to Flooid,Go-Forward,,,Real-Time
+334,162,Site Data Feed from SAP S/4 to Flooid,Go-Forward,,,Real-Time
+334,162,Inventory Snapshot Feed from SAP S/4 to Flooid,Go-Forward,,,Real-Time
+334,162,Promotions Data Feed from SAP S/4 to Flooid,Go-Forward,,,Real-Time
+162,53,Flooid POS Transactions Publish to Agilence,Go-Forward,,,Real-Time
+334,192,Promotion Price Data from SAP S/4 to Informatica PIM,Legacy,,,
+334,192,Commercialized Style w/UPC from SAP S/4 to Informatica PIM,Legacy,,,
+334,192,Purchase Order Data from SAP S/4 to Informatica PIM,Legacy,,,
+435,360,Centric EU Commercialized Style Publish to MDM,Go-Forward,pim-product2g.json,JSON,Near Real-Time
+435,360,Centric EU Colorway Publish to MDM,Go-Forward,pim-article.json,JSON,Near Real-Time
+435,360,Centric EU Size Variant Publish to MDM,Go-Forward,pim-variant.json,JSON,Near Real-Time
+438,360,Third-Party Commercialized Style Input Sheet to MDM,Go-Forward,,EXCEL,Ad-Hoc
+442,360,Orphan Attribute Input Sheet to MDM,Interim,,EXCEL,Ad-Hoc
+441,360,Commercialized Style Input Sheet to MDM,Interim,,EXCEL,Ad-Hoc
+441,360,Commercialized Style Input Sheet to MDM,Interim,,EXCEL,Ad-Hoc
+441,360,Commercialized Style Input Sheet to MDM,Interim,,EXCEL,Ad-Hoc
+445,360,445 Input Sheet to MDM,Interim,,EXCEL,Ad-Hoc
+440,360,440 Input Sheet to MDM,Interim,,EXCEL,Ad-Hoc
+360,441,MDM Commercialization  Extract (NA),Interim,,EXCEL,Twice Daily
+360,441,MDM Commercialization  Extract (EU),Interim,,EXCEL,Twice Daily
+360,441,MDM Commercialization  Extract (3rd-Party),Interim,,EXCEL,Twice Daily
+360,440,MDM 440 Extract,Interim,,EXCEL,Twice Daily
+360,442,MDM Orphan Attributes Enrichment Extract,Interim,,EXCEL,Twice Daily
+334,276,Inventory Snapshot from SAP S4 to Xstore POS,Go-Forward,,TXT,
+334,276,Site master outbound from SAP S4 to Xstore POS,Go-Forward,,TXT,
+334,276,Article master and price from SAP S4 interface to Xstore,Go-Forward,,TXT,
+334,276,Article hierarchy from SAP S4 to Xstore,Go-Forward,,TXT,
