@@ -1,0 +1,75 @@
+﻿Interface_Id,Interface_Name,Source_System,Target_System
+1,Redistribution Sales (Indirect Sales) data for SPP Trace Sales,3,23
+2,Redistribution Sales (Indirect Sales) data for Patient Dispense,3,23
+3,Redistribution Sales (Indirect Sales) data for Competitor and DSA data,3,23
+4,Redistribution Sales (Indirect Sales) data for Inventory Details,3,23
+5,Redistribution Sales (Indirect Sales) data for Status Details,3,23
+6,Payer,4,23
+7,Status,4,23
+8,Patient,4,23
+9,AssistRx shipment,4,23
+10,AssistRx stage,4,23
+11,Redist Dispense,4,23
+12,AssistRx Provider,4,23
+13,AssistRx prescription,4,23
+14,AssistRx Consent,4,23
+15,assistRx case,4,23
+16,assistRx Benefit Result,4,23
+17,assistRx Pharmacy referral,4,23
+18,assistRx Insurance,4,23
+19,Patient Service,4,23
+20,Inventory,4,23
+21,Account,4,23
+22,Prescriber,4,23
+23,assistRx Copay Claims,4,23
+24,assistRx Copay Enrollment,4,23
+25,SD Shipment,4,23
+26,SD Inventory,4,23
+27,Inventory data from Liquid Hub,4,23
+28,SD Inventory Livtencity,4,23
+29,Patient Demographics Token,5,23
+30,Account,17,23
+31,record type,17,23
+32,product metrics,17,23
+33,Account to territory details,17,23
+34,Address,17,23
+35,Call Details,17,23
+36,Call Discussion,17,23
+37,Call Key message,17,23
+38,key message,17,23
+39,Call Sample,17,23
+40,Call,17,23
+41,Product,17,23
+42,Leads,17,23
+43,plan channel,17,23
+44,plan product,17,23
+45,cycle plan target,17,23
+46,cycle plan,17,23
+47,cycle product,17,23
+48,rep territory,17,23
+49,User territory,17,23
+50,sales attributes,17,23
+51,user tot ,17,23
+52,rep suggestion,17,23
+53,rep suggestion feedback,17,23
+54,rep survey question,17,23
+55,rep question response,17,23
+56,rep survey target,17,23
+57,rep profile,17,23
+58,Multichannel Consent,17,23
+59,Call Discusss,17,23
+60,Child call details,17,23
+61,Parent Call Details,17,23
+62,Planned Call Details,17,23
+63,Multichannel Activity Line,17,23
+64,User,17,23
+65,Call Owner,17,23
+66,Identified patients summary,17,23
+67,Account Affiliation ,17,23
+68,Child account,17,23
+69,sent email and rep_user,17,23
+70,iengage leads,17,23
+71,approved documents ,17,23
+72,TOT,17,23
+73,rep_clm_presentation_vod__c,17,23
+74,rep_clm_present_slide_vod__c,17,23
